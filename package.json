@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/wld4y/skribbloader/issues"
   },
-  "homepage": "https://github.com/wld4y/skribbloader#readme"
+  "homepage": "https://github.com/wld4y/skribbloader#readme",
+  "type": "module"
 }
