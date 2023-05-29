@@ -1,0 +1,23 @@
+{
+  "name": "skribbloader",
+  "version": "1.0.0",
+  "description": "Desktop client for skribbl.io with mod support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wld4y/skribbloader.git"
+  },
+  "keywords": [
+    "skribbl.io",
+    "skribbloader"
+  ],
+  "author": "wlday",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/wld4y/skribbloader/issues"
+  },
+  "homepage": "https://github.com/wld4y/skribbloader#readme"
+}
